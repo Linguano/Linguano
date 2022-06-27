@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Linguano
 - 👀 I’m interested in Natural Sciences
-- 🌱 I’m currently learning R and git
+- 🌱 I’m currently learning R and Python aswell as LaTeX
 
 <!---
 Linguano/Linguano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
